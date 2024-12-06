@@ -15,7 +15,7 @@ pip install catbypasser
 ```python
 from catbypasser import bypass
 
-text = "Text here..."
-BypassText = bypass(text)
-print(BypassText)  # Outputs your catbypasser password: solara2024 saentence
+text = "Your own text."
+Bypassed = bypass(text)
+print(Bypassed)  # Outputs your catbypasser password: solara2024 saentence
 ```
