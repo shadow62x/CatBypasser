@@ -16,6 +16,6 @@ pip install catbypasser
 from catbypasser import bypass
 
 text = "Text here..."
-BypassText = bypassed(text)
+BypassText = bypass(text)
 print(BypassText)  # prints the bypassed sentence.
 ```
