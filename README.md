@@ -17,5 +17,5 @@ from catbypasser import bypass
 
 text = "Text here..."
 BypassText = bypass(text)
-print(BypassText)  # prints the bypassed sentence.
+print(BypassText)  # Outputs your catbypasser password: solara2024 saentence
 ```
