@@ -1,0 +1,8 @@
+README.md
+setup.py
+catbypasser/__init__.py
+catbypasser/translator.py
+catbypasser.egg-info/PKG-INFO
+catbypasser.egg-info/SOURCES.txt
+catbypasser.egg-info/dependency_links.txt
+catbypasser.egg-info/top_level.txt

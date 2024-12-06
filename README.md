@@ -13,9 +13,9 @@ pip install catbypasser
 ## Usage
 
 ```python
-from catbypasser import translate
+from catbypasser import bypass
 
-text = "your text"
-bypassed = translate(text)
-print(bypasses)  # prints the bypassed sentence.
+text = "Text here..."
+BypassText = bypassed(text)
+print(BypassText)  # prints the bypassed sentence.
 ```

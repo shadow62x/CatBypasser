@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: catbypasser
+Version: 1.0.1
+Summary: A simple bypasser
+Author: shadow62
+Author-email: strippersex8@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6

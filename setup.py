@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="catbypasser",
-    version="1.0.0",
+    version="1.0.1",
     description="A simple bypasser",
     author="shadow62",
     author_email="strippersex8@gmail.com",
