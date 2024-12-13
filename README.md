@@ -20,7 +20,7 @@ Bypassed = bypass(text)
 print(Bypassed)  # Outputs your text, but bypassed.
 ```
 
-### You can try an input:
+### You can also try an input:
 
 ```python
 from catbypasser import bypass
